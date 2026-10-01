@@ -1,9 +1,0 @@
-{
-  "name": "monitor-budget-compliance-2027",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Monitor Control Budget Compliance 2027 — lee Cuadro Control 2027.xlsx desde Microsoft Graph (app-only) y sirve el dashboard estático.",
-  "dependencies": {
-    "xlsx": "^0.18.5"
-  }
-}
